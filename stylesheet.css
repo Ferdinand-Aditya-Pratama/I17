@@ -136,7 +136,7 @@ header {
 .body-main {
 	padding: 50px 0px 50px 0px;
 	height: 200px;
-	background-image: url("img/img1.jpg");
+	background-image: url("img1.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
